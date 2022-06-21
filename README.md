@@ -4,3 +4,5 @@
 - 🖥 Terminal: iTerm2
 - 📝 Editor: Vscode
 - 🎮 Games: Genshin Impact
+
+My personal website: https://qkhanh-personal-website.netlify.app
