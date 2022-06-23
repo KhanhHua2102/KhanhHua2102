@@ -5,4 +5,4 @@
 - 📝 Editor: Vscode
 - 🎮 Games: Genshin Impact
 
-My personal website: https://qkhanh-personal-website.netlify.app
+My personal website: http://khanhhua2102.live
