@@ -3,6 +3,6 @@
 - 💿 Operating system: MacOS 11.6 BigSur
 - 🖥 Terminal: iTerm2
 - 📝 Editor: Vscode
-- 🎮 Games: Genshin Impact
+- 🎮 Games: Genshin Impact | Valorant
 
 My personal website: https://www.khanhhua2102.live/
