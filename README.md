@@ -4,4 +4,4 @@
 - 🖥 Terminal: iTerm2 (zsh with powerlevel10k)
 - 📝 Editor: Vscode
 
-My personal website: https://www.khanhhua2102.live/ (Developing)
+My personal website: www.khanhhua2102.com (Developing)
