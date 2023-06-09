@@ -1,6 +1,6 @@
 👋 Hi there, I'm Quang Khanh (Henry) Hua - a third year student at University of Western Australia 🏫
 - 📗 Studying: Computer Science & Data Science
-- 💿 Operating system: MacOS 13.2 Ventura
+- 💿 Operating system: MacOS Sonoma
 - 🖥 Terminal: iTerm2 (zsh with powerlevel10k)
 - 📝 Editor: Vscode
 
