@@ -10,9 +10,9 @@ Resume:
 
 ## SUMMARY
 
-* I am a highly motivated and enthusiastic third-year student pursuing a dual degree in Computer Science and Data Science at the University of Western Australia. Possessing a strong passion for technology and data analysis, I am seeking a challenging internship opportunity to apply my theoretical knowledge and further develop my practical skills.
-* With a solid foundation in Web development (Flask, NextJS, MongoDB, Nodejs, Express, GraphQL) and mobile app development (Flutter), I am confident in my ability to deliver innovative solutions to complex problems. 
-* My excellent analytical and problem-solving skills and my team-oriented approach make me a valuable asset to any organization. I am eager to bring my dedication, creativity, and technical expertise to any project. I am committed to continuously expanding my skill set and knowledge in the ever-evolving field of computer science and data science.
+* Motivated and enthusiastic third-year student pursuing dual Computer Science and Data Science degrees at the University of Western Australia. Strong passion for technology and data analysis.
+* Fast learner with strong problem-solving skills, teamwork, leadership, and project management abilities. Adaptable and confident in delivering innovative solutions to complex problems. 
+* My excellent analytical and problem-solving skills, coupled with a team-oriented approach, make me a valuable asset to any organization seeking a skilled software developer.
 
 ## TECHNICAL SKILLS
 
