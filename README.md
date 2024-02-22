@@ -2,7 +2,7 @@
 
 Resume:
 <br/>
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/KhanhHua2102/KhanhHua2102/raw/main/QuangKhanh-Hua-Resume.pdf)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/KhanhHua2102/KhanhHua2102/raw/main/Henry-Hua-Resume.pdf)
 <br/>
 <br/>
 <a href="mailto:henry@khanhhua2102.com"><img alt="Link to email contact address" src="https://img.shields.io/badge/email-D14836?style=for-the-badge" target="_blank" /></a> <a href="https://www.linkedin.com/in/khanhhua2102/"><img alt="badge for GitHub" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
